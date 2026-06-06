@@ -1,0 +1,6 @@
+{
+  "name": "My Income, Expenditures & Debts",
+  "description": "A modern offline-first Progressive Web App to manage your income, expenses, debts, loans, savings, and reports with UGX support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
